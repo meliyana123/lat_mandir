@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string name="app_name">lat_mandiri</string>
+        <string name="team_a">Tim A</string>
+        <string name="team_b">Tim B</string>
+        <string name="_2_point">+2 POIN</string>
+        <string name="_3_point">+3 POIN</string>
+        <string name="_5_point">+5 POIN</string>
+        <string name="finish">SELESAI</string>
+        <string name="reset">RESET</string>
+        <string name="password">Kata Sandi</string>
+        <string name="username">Nama</string>
+        <string name="login">Masuk</string>
+    </resources>

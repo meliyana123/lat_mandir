@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise_alone</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="_2_point">+2 POINT</string>
+    <string name="_3_point">+3 POINT</string>
+    <string name="_5_point">+5 POINT</string>
+    <string name="finish">FINISH</string>
+    <string name="reset">RESET</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
